@@ -12,8 +12,8 @@ namespace GitTest
         {
             string a = args[0];
 
-
-            Console.WriteLine(a + "sting append");
+            
+            Console.WriteLine(a + "sting append changed");
 
             
         }
